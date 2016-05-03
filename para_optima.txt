@@ -1,0 +1,5 @@
+Optimal Parameter vector (young and old; 6 parameters each)
+2523.79 1.7892 9429.95 0.8729 239610 2.58022 2619.1 1.0319 9214.75 0.6844 130550 2.02602 
+
+with an LE = -132.1329!  and this was not significantly different from in vivo data (p = 0.1373)!!
+
